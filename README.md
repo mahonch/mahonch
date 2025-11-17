@@ -134,7 +134,6 @@
     <img src="https://img.shields.io/badge/Verizon-CD040B?style=flat-square&logo=verizon&logoColor=white" alt="Verizon">
     <img src="https://img.shields.io/badge/Burger%20King-EC1C24?style=flat-square&logo=burger-king&logoColor=white" alt="Burger King">
     <img src="https://img.shields.io/badge/Walmart-0071CE?style=flat-square&logo=walmart&logoColor=white" alt="Walmart">
-    <img src="https://img.shields.io/badge/Grubhub-EE4E34?style=flat-square&logo=grubhub&logoColor=white" alt="Grubhub">
     <img src="https://img.shields.io/badge/Air%20Force-0033A0?style=flat-square&logo=air-force&logoColor=white" alt="Air Force">
     <img src="https://img.shields.io/badge/Barbie-DAA8A1?style=flat-square&logo=barbie&logoColor=white" alt="Barbie">
     <img src="https://img.shields.io/badge/Hogwarts-660066?style=flat-square&logo=hogwarts&logoColor=white" alt="Hogwarts">
